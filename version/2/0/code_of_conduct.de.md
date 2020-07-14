@@ -10,8 +10,8 @@ Erfahrung zu machen – unabhängig von Alter, Körpergröße, Behinderung, ethn
 Zuordnung, geschlechtlicher Identität und Ausdruck, Erfahrungsstufe, Nationalität,
 persönlicher Erscheinung, Rasse, Religion oder sexueller Identität oder Orientierung.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Wir verpflichten uns, auf eine Weise zu handeln und zu interagieren, die zu einer
+offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft beiträgt.
 
 ## Unsere Standards
 
