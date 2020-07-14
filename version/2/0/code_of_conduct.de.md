@@ -15,27 +15,27 @@ offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft beit
 
 ## Unsere Standards
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft
+beitragen, sind:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Empathie und Freundlichkeit gegenüber anderen Menschen demonstrieren
+* Respekt gegenüber unterschiedlichen Meinungen, Standpunkten und Erfahrungen
+* Konstruktives Feedback geben und anmutig annehmen
+* Verantwortung übernehmen und sich bei den Betroffenen durch unsere Fehler entschuldigen
+  und aus den Erfahrungen lernen
+* Konzentration auf das Beste, nicht nur für uns als Einzelpersonen, sondern für die
+  gesamte Gemeinschaft
 
-Examples of unacceptable behavior include:
+Beispiele für inakzeptables Verhalten sind:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuelle Aufmerksamkeit oder
+  Fortschritte dahingehend in jeglicher Art
+* Trolling, beleidigende oder abfällige Kommentare sowie persönliche oder politische Angriffe
+* Öffentliche oder private Belästigung
+* Veröffentlichung der privaten Informationen anderer, z. B. einer physischen Adresse
+  oder einer E-Mail-Adresse, ohne deren ausdrückliche Genehmigung
+* Anderes Verhalten, das in einem professionellen Umfeld vernünftigerweise als unangemessen
+  angesehen werden könnte
 
 ## Unsere Verantwortlichkeiten
 
