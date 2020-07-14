@@ -15,39 +15,40 @@ offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft beit
 
 ## Unsere Standards
 
-Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft
-beitragen, sind:
+Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere
+Gemeinschaft beitragen, sind:
 
 * Empathie und Freundlichkeit gegenüber anderen Menschen demonstrieren
 * Respekt gegenüber unterschiedlichen Meinungen, Standpunkten und Erfahrungen
 * Konstruktives Feedback geben und anmutig annehmen
-* Verantwortung übernehmen und sich bei den Betroffenen durch unsere Fehler entschuldigen
-  und aus den Erfahrungen lernen
-* Konzentration auf das Beste, nicht nur für uns als Einzelpersonen, sondern für die
-  gesamte Gemeinschaft
+* Verantwortung übernehmen und sich bei den Betroffenen durch unsere Fehler
+  entschuldigen und aus den Erfahrungen lernen
+* Konzentration auf das Beste, nicht nur für uns als Einzelpersonen, sondern
+  für die gesamte Gemeinschaft
 
 Beispiele für inakzeptables Verhalten sind:
 
-* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuelle Aufmerksamkeit oder
-  Fortschritte dahingehend in jeglicher Art
-* Trolling, beleidigende oder abfällige Kommentare sowie persönliche oder politische Angriffe
+* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuelle Aufmerksamkeit
+  oder Fortschritte dahingehend in jeglicher Art
+* Trolling, beleidigende oder abfällige Kommentare sowie persönliche oder 
+  politische Angriffe
 * Öffentliche oder private Belästigung
-* Veröffentlichung der privaten Informationen anderer, z. B. einer physischen Adresse
-  oder einer E-Mail-Adresse, ohne deren ausdrückliche Genehmigung
-* Anderes Verhalten, das in einem professionellen Umfeld vernünftigerweise als unangemessen
-  angesehen werden könnte
+* Veröffentlichung der privaten Informationen anderer, z. B. einer physischen
+  Adresse oder einer E-Mail-Adresse, ohne deren ausdrückliche Genehmigung
+* Anderes Verhalten, das in einem professionellen Umfeld vernünftigerweise als
+  unangemessen angesehen werden könnte
 
 ## Unsere Verantwortlichkeiten
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Community-Verantwortliche sind dafür verantwortlich, unsere Standards für akzeptables
+Verhalten zu klären und durchzusetzen, und werden angemessene und faire
+Korrekturmaßnahmen ergreifen, um auf jedes Verhalten zu reagieren, das sie für
+unangemessen, bedrohlich, beleidigend oder schädlich halten.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Community-Verantwortliche haben das Recht und die Verantwortung, Kommentare,
+Commits, Code, Wiki-Änderungen, Probleme und andere Beiträge, die nicht mit
+diesem Verhaltenskodex in Einklang stehen, zu entfernen, zu bearbeiten oder
+abzulehnen, und geben gegebenenfalls Gründe für Moderationsentscheidungen bekannt.
 
 ## Geltungsbereich
 
