@@ -87,15 +87,16 @@ kann angefordert werden.
 
 ### 2. Warnung
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Community Auswirkung**: Ein Verstoß durch einen einzelnen Vorfall oder
+eine Reihe von Aktionen.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Konsequenz**: Eine Warnung mit Konsequenzen für das weitere Verhalten.
+Keine Interaktion mit den beteiligten Personen, einschließlich einer
+unaufgeforderten Interaktion mit den Personen, die den Verhaltenskodex
+durchsetzen, für einen bestimmten Zeitraum. Dies beinhaltet die Vermeidung
+von Interaktionen in Community-Räumen sowie in externen Kanälen wie Social Media.
+Verstöße gegen diese Bestimmungen können zu einem vorübergehenden oder
+dauerhaften Verbot führen.
 
 ### 3. Vorübergehendes Verbot
 
