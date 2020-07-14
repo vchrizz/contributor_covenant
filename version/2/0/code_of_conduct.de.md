@@ -71,8 +71,9 @@ Sicherheit des Melders bei Vorfällen zu respektieren.
 
 ## Umsetzungsrichtlinien
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Die Verantwortlichen der Gemeinschaft werden diese Community Impact Guidelines
+befolgen, um die Konsequenzen für Maßnahmen zu ermitteln, die ihrer Ansicht 
+ach gegen diesen Verhaltenskodex verstoßen:
 
 ### 1. Richtigstellung
 
