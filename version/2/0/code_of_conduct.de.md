@@ -52,11 +52,11 @@ abzulehnen, und geben gegebenenfalls Gründe für Moderationsentscheidungen beka
 
 ## Geltungsbereich
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Dieser Verhaltenskodex gilt für alle Gemeinschaftsräume und auch, wenn eine
+Person die Gemeinschaft offiziell im öffentlichen Raum vertritt. Beispiele
+für die Vertretung unserer Community sind die Verwendung einer offiziellen
+E-Mail-Adresse, die Veröffentlichung über ein offizielles Social-Media-Konto
+oder die Vertretung bei einer Online- oder Offline-Veranstaltung.
 
 ## Umsetzung
 
