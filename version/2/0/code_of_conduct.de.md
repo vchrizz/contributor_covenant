@@ -60,14 +60,14 @@ oder die Vertretung bei einer Online- oder Offline-Veranstaltung.
 
 ## Umsetzung
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at coraline c/o 
-idolhands dot com.
+Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
+Verhalten können den Gemeindevorstehern gemeldet werden, die für die
+Durchsetzung bei coraline c / o idolhands dot com verantwortlich sind.
 
-All complaints will be reviewed and investigated promptly and fairly.
+Alle Beschwerden werden umgehend und fair geprüft und untersucht.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Alle Community-Verantwortliche sind verpflichtet, die Privatsphäre und
+Sicherheit des Melders bei Vorfällen zu respektieren.
 
 ## Umsetzungsrichtlinien
 
