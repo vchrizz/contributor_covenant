@@ -77,12 +77,13 @@ ach gegen diesen Verhaltenskodex verstoßen:
 
 ### 1. Richtigstellung
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Community Auswirkung**: Verwendung unangemessener Sprache oder anderen Verhaltens,
+das in der Community als unprofessionell oder unerwünscht eingestuft wird.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Konsequenz**: Eine private, schriftliche Warnung von Gemeindevorstehern
+mit Klarheit über die Art des Verstoßes und eine Erklärung,
+warum das Verhalten unangemessen war. Eine öffentliche Entschuldigung
+kann angefordert werden.
 
 ### 2. Warnung
 
