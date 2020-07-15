@@ -112,12 +112,13 @@ Verstöße gegen diese Bestimmungen können zu einem dauerhaften Verbot führen.
 
 ### 4. Dauerhaftes Verbot
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Community Auswirkung**: Demonstration eines Musters der Verletzung von
+Gemeinschaftsstandards, einschließlich anhaltend unangemessenem Verhalten,
+Belästigung eines Individuums oder Aggression gegenüber oder Herabsetzung
+von Klassen von Individuen.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**Konsequenz**: Ein dauerhaftes Verbot jeglicher öffentlicher Interaktion
+innerhalb der Gemeinschaft.
 
 ## Bezug
 
