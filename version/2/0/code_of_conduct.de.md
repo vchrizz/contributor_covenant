@@ -100,14 +100,15 @@ dauerhaften Verbot führen.
 
 ### 3. Vorübergehendes Verbot
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Community Auswirkung**: Ein schwerwiegender Verstoß gegen Community-Standards,
+einschließlich anhaltend unangemessenem Verhalten.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Konsequenz**: Ein vorübergehendes Verbot jeglicher Art von Interaktion
+oder öffentlicher Kommunikation mit der Community für einen bestimmten
+Zeitraum. Während dieses Zeitraums ist keine öffentliche oder private
+Interaktion mit den beteiligten Personen, einschließlich der unaufgeforderten
+Interaktion mit den Personen, die den Verhaltenskodex durchsetzen, zulässig.
+Verstöße gegen diese Bestimmungen können zu einem dauerhaften Verbot führen.
 
 ### 4. Dauerhaftes Verbot
 
